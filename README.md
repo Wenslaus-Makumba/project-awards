@@ -5,7 +5,7 @@ an application where a user can post his/her projects and applications done and 
 ## Live link
 
 ## Github  link
-https://github.com/Wenslaus-Makumba/awwards-app
+https://github.com/Wenslaus-Makumba/project-awards
 
 ## Development
 To make advancements/modifications, follow these steps:
