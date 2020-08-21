@@ -1,1 +1,1 @@
-web: gunicorn project-awward.wsgi --log-file -
+web: gunicorn projectview.wsgi 

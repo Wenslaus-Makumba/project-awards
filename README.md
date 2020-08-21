@@ -7,6 +7,9 @@ an application where a user can post his/her projects and applications done and 
 ## Github  link
 https://github.com/Wenslaus-Makumba/project-awards
 
+## livesite  link
+https://project-awward.herokuapp.com
+
 ## Development
 To make advancements/modifications, follow these steps:
 
